@@ -30,7 +30,7 @@ Things to be submitted:
 4. Product Documentation- Steps to use the app - optional 
 5. Developer Documentation(APIs/Modules) - optional
 
-===============================================================================
+============================================================================
 
 <h1>YoYoPizza</h1>
 
